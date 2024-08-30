@@ -32,6 +32,24 @@
 0.0.0.0 vimeo.com www.vimeo.com
 :: vimeo.com www.vimeo.com
 
+## Crypto addiction
+0.0.0.0 www.tradingview.com
+:: www.tradingview.com
+0.0.0.0 www.coinmarketcap.com
+:: www.coinmarketcap.com
+0.0.0.0 www.coingecko.com
+:: www.coingecko.com
+0.0.0.0 www.crypto.com
+:: www.crypto.com
+0.0.0.0 www.coinbase.com
+:: www.coinbase.com
+0.0.0.0 www.kraken.com
+:: www.kraken.com
+0.0.0.0 www.binance.com
+:: www.binance.com
+0.0.0.0 www.bitstamp.com
+:: www.bitstamp.com
+
 ## News and Information
 0.0.0.0 news.ycombinator.com
 :: news.ycombinator.com
