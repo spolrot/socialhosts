@@ -1,0 +1,83 @@
+### Block Distracting Sites ###
+
+## Social Media
+0.0.0.0 facebook.com www.facebook.com
+:: facebook.com www.facebook.com
+0.0.0.0 twitter.com www.twitter.com
+:: twitter.com www.twitter.com
+0.0.0.0 x.com www.x.com
+:: x.com www.x.com
+0.0.0.0 instagram.com www.instagram.com
+:: instagram.com www.instagram.com
+0.0.0.0 tiktok.com www.tiktok.com
+:: tiktok.com www.tiktok.com
+0.0.0.0 linkedin.com www.linkedin.com
+:: linkedin.com www.linkedin.com
+0.0.0.0 pinterest.com www.pinterest.com
+:: pinterest.com www.pinterest.com
+0.0.0.0 reddit.com www.reddit.com
+:: reddit.com www.reddit.com
+0.0.0.0 tumblr.com www.tumblr.com
+:: tumblr.com www.tumblr.com
+
+## Video Streaming
+0.0.0.0 youtube.com www.youtube.com
+:: youtube.com www.youtube.com
+0.0.0.0 netflix.com www.netflix.com
+:: netflix.com www.netflix.com
+0.0.0.0 hulu.com www.hulu.com
+:: hulu.com www.hulu.com
+0.0.0.0 twitch.tv www.twitch.tv
+:: twitch.tv www.twitch.tv
+0.0.0.0 vimeo.com www.vimeo.com
+:: vimeo.com www.vimeo.com
+
+## News and Information
+0.0.0.0 news.ycombinator.com
+:: news.ycombinator.com
+0.0.0.0 buzzfeed.com www.buzzfeed.com
+:: buzzfeed.com www.buzzfeed.com
+0.0.0.0 digg.com www.digg.com
+:: digg.com www.digg.com
+
+## Extra facebook
+0.0.0.0 login.facebook.com www.login.facebook.com
+:: login.facebook.com www.login.facebook.com
+0.0.0.0 fbcdn.net www.fbcdn.net
+:: fbcdn.net www.fbcdn.net
+0.0.0.0 fbcdn.com www.fbcdn.com
+:: fbcdn.com www.fbcdn.com
+0.0.0.0 static.ak.fbcdn.net
+:: static.ak.fbcdn.net
+0.0.0.0 static.ak.connect.facebook.com
+:: static.ak.connect.facebook.com
+0.0.0.0 connect.facebook.net www.connect.facebook.net
+:: connect.facebook.net www.connect.facebook.net
+0.0.0.0 meta.com www.meta.com
+:: meta.com www.meta.com
+0.0.0.0 apps.facebook.com
+:: apps.facebook.com
+0.0.0.0 m.facebook.com
+:: m.facebook.com
+
+## Common Trackers
+0.0.0.0 doubleclick.net www.doubleclick.net
+:: doubleclick.net www.doubleclick.net
+0.0.0.0 google-analytics.com www.google-analytics.com
+:: google-analytics.com www.google-analytics.com
+0.0.0.0 googletagmanager.com www.googletagmanager.com
+:: googletagmanager.com www.googletagmanager.com
+0.0.0.0 scorecardresearch.com www.scorecardresearch.com
+:: scorecardresearch.com www.scorecardresearch.com
+0.0.0.0 quantserve.com www.quantserve.com
+:: quantserve.com www.quantserve.com
+0.0.0.0 adnxs.com www.adnxs.com
+:: adnxs.com www.adnxs.com
+0.0.0.0 ad.doubleclick.net www.ad.doubleclick.net
+:: ad.doubleclick.net www.ad.doubleclick.net
+0.0.0.0 pubmatic.com www.pubmatic.com
+:: pubmatic.com www.pubmatic.com
+0.0.0.0 criteo.com www.criteo.com
+:: criteo.com www.criteo.com
+0.0.0.0 adform.net www.adform.net
+:: adform.net www.adform.net
